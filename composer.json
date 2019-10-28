@@ -1,0 +1,20 @@
+{
+	"name": "administrator/composertest",
+	"description": "the utils for ejiayou projects!",
+	"keywords": ["ejiayou", "php", "tools", "utils"],
+	"license": "MIT",
+	"authors": [{
+		"name": "ouyangxiaoxin",
+		"email": "ouyangxx@ejiayou.com"
+	}],
+	"require": {
+		"oyxx/test": "1.1.5"
+	},
+	"minimum-stability": "stable",
+	"repositories": {
+		"packagist": {
+			"type": "composer",
+			"url": "https://packagist.phpcomposer.com"
+		}
+	}
+}
