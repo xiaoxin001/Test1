@@ -7,9 +7,6 @@
 		"name": "ouyangxiaoxin",
 		"email": "ouyangxx@ejiayou.com"
 	}],
-	"require": {
-		"oyxx/test": "1.1.5"
-	},
 	"minimum-stability": "stable",
 	"repositories": {
 		"packagist": {
